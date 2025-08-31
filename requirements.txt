@@ -1,0 +1,8 @@
+numpy
+matplotlib
+pytest
+ipython
+ipykernel
+ipywidgets
+plotly
+nbformat
