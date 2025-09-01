@@ -7,3 +7,5 @@ ipywidgets
 plotly
 nbformat
 jupyter
+sympy
+scipy
